@@ -1,4 +1,4 @@
-![]https://github.com/datascientistunlu/dacota/blob/main/docs/assets/dacoto_docs_01.png
+![--](docs/assets/dacoto_docs_01.png)
 
 # ------
 
