@@ -1,6 +1,10 @@
 ![--](docs/assets/dacoto_docs_01.png)
 
 # ------
+```python
+pip install -i https://test.pypi.org/simple/ dacota==0.1.1
+```
+# ------
 
 # **DACOTA**
 
